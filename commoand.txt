@@ -1,0 +1,2 @@
+git push origin feature1
+#这里的git push 和之前的有点不同：多了origin featuer1 这两个参数。其中origin是远程仓库的别名，是你在git clone的时候Git自动帮你起的；feature1是远程仓库中目标branch的名字。这两个参数合起来指定了你要push到的目标仓库和目标分支，意思是【我要push到origin这个仓库的feature1分支】
