@@ -1,3 +1,7 @@
 zack zhou git practice 1
 hello 2
+<<<<<<< HEAD
 hello 4
+=======
+hello 3
+>>>>>>> geature1
