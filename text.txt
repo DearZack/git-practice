@@ -1,4 +1,5 @@
 zack zhou git practice 1
 hello 2
 hello 4
+hello master
 merger
