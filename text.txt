@@ -5,4 +5,8 @@ hello master
 hello 20210403
 merger
 master2
+<<<<<<< HEAD
 第八行
+=======
+制造冲突
+>>>>>>> b0403
